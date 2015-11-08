@@ -47,4 +47,4 @@ Name: "{commondesktop}\{#MyAppName}"; Filename: "{app}\Tribes Vengeance\Program\
 Filename: "{app}\Tribes Vengeance\Program\Bin\TV Key Generator.exe"; Parameters: "/q";
 
 ;Fix the resolution setting in TV_CD_DVD.ini (see https://github.com/sudeepsidhu/TVResolutionFixer)
-Filename: "{app}\Tribes Vengeance\Program\Bin\TV Resolution Fixer.exe";
+Filename: "{app}\Tribes Vengeance\Program\Bin\TV Resolution Fixer.exe"; Parameters: "/q";
