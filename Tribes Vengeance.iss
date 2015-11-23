@@ -22,6 +22,9 @@ SetupIconFile=vengeance.ico
 Compression=lzma2/ultra64
 DiskSpanning=yes
 UninstallDisplayIcon={app}\Tribes Vengeance\Program\Bin\{#MyAppExeName}
+WizardImageFile=wizardimage.bmp
+WizardImageStretch=true
+WizardSmallImageFile=wizardsmallimage.bmp
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
